@@ -7,3 +7,13 @@ Soy ingeniero civil enfocado en la disciplina de ingenieria de costos, actualmen
 1. Opus
 2. AutoCad
 3. Microsoft Office
+
+# Comandos mas usados en la terminal
+| comando | descripcion |
+|---------|-------------|
+| ls | lista el contenido de un directorio |
+| cd | cambiar entre directorios |
+| yarn | instalar dependencias |
+| gst | alias de git status |
+| clear | limpiar la terminal |
+| alias | listar los alias |
