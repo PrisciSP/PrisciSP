@@ -6,4 +6,4 @@ Soy ingeniero civil enfocado en la disciplina de ingenieria de costos, actualmen
 ## Conocimientos de Software
 1. Opus
 2. AutoCad
-3. Microsoft
+3. Microsoft Office
