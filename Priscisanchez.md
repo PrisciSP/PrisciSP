@@ -17,7 +17,7 @@ Soy ingeniero civil enfocado en la diciplina de ingenieria de costos, actualment
 | gst | alias de git status |
 | clear | limpiar la terminal |
 | alias | listar los alias |
-| takoyakis | sashimi |
+| takoyakis | sashii |
 
 > http://localhost:8080/Priscisanchez/index.html
 > Comentarios
