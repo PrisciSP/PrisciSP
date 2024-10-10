@@ -16,7 +16,7 @@ Soy ingeniero civil enfocado en la diciplina de ingenieria de costos, actualment
 | yarn | instalar dependencias |
 | gst | alias de git status |
 | clear | limpiar la terminal |
-| alias | listar los alias |
+
 
 > http://localhost:8080/Priscisanchez/index.html
 > Comentarios
