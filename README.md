@@ -22,7 +22,8 @@ Soy ingeniero civil enfocado en la disciplina de ingenieria de costos, actualmen
 | allias | descripcion |
 |---------|-------------|
 | git s | alias de git status |
+| git c | alias de git commit -m |
 | git a | alias de git add |
-| git po | alias de git push origin |
-| git pl | alias de git pull origin |
+| git p | alias de git push origin |
+| git po | alias de git pull origin |
 | cl | alias de clear |
