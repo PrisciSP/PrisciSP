@@ -17,3 +17,12 @@ Soy ingeniero civil enfocado en la disciplina de ingenieria de costos, actualmen
 | gst | alias de git status |
 | clear | limpiar la terminal |
 | alias | listar los alias |
+
+# Estos son mis alias mas usados
+| allias | descripcion |
+|---------|-------------|
+| git s | alias de git status |
+| git a | alias de git add |
+| git po | alias de git push origin |
+| git pl | alias de git pull origin |
+| cl | alias de clear |
